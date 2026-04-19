@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 300 records |
 | Free sample size | 30 records (10.0%) |
-| Last export | 2026-04-08T01:51:59.674143+00:00 |
+| Last export | 2026-04-15T07:18:48.628712+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-los-angeles-california-us-sample-205917/releases/download/sample-latest/beamstation_205917_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
