@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9be2f74f-eaeb-4980-98b1-f3fc6fd52d81",
+  "export_job_id": "d4601213-ae60-4282-a0b5-34f33d6a89cd",
   "id_short": 205917,
-  "published_at": "2026-04-12T07:04:51Z",
+  "published_at": "2026-04-19T07:20:52Z",
   "repo_name": "top-300-active-restaurant-whales-with-email-in-los-angeles-california-us-sample-205917",
   "sample_asset_name": "beamstation_205917_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/205917/beamstation_205917_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 30,
-  "sample_sha256": "d7a79220d6be7406269c91abecd85ed20a78f7b7850b68449d46c790b2cee317",
-  "sample_size_bytes": 141467,
+  "sample_sha256": "f67bbfe761dde7d9c3f6ca24c4e15258470348ca220404503446adda41d62190",
+  "sample_size_bytes": 150068,
   "total_records": 300
 }
