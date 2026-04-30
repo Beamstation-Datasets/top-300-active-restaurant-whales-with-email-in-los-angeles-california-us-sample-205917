@@ -1,6 +1,6 @@
 # Top 300 Active Restaurant Whales with Email in Los Angeles, California, US
 
-> Free BeamStation sample export with 24 rows and masked direct-contact fields.
+> Free BeamStation sample export with 28 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `205917` |
 | Location | Los Angeles |
 | Category | Restaurants |
-| Full dataset size | 244 records |
-| Free sample size | 24 records (9.84%) |
-| Last export | 2026-04-22T13:37:37.763977+00:00 |
+| Full dataset size | 282 records |
+| Free sample size | 28 records (9.93%) |
+| Last export | 2026-04-29T14:19:46.030310+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-los-angeles-california-us-sample-205917/releases/download/sample-latest/beamstation_205917_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
